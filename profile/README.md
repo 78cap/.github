@@ -1,9 +1,8 @@
 ## Welcome to Seven Eight Capital
 
-More **[about us](https://www.seveneightcapital.com/).
+More **[about us](https://www.seveneightcapital.com/).**
 
-**[We're hiring](https://www.seveneightcapital.com/join-us).
-
+**[We're hiring](https://www.seveneightcapital.com/join-us).**
 <!--
 
 **Here are some ideas to get you started:**
